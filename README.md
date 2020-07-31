@@ -40,12 +40,11 @@
 - [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
 - [Reading code and responding to questions about it](https://twitter.com/amasad/status/1285797739930869761)
 - [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
-- [Generating SQL code 1](https://twitter.com/aquariusacquah/status/1284706786247880705)
-- [Generating SQL code 2](https://twitter.com/FaraazNishtar/status/1285934622891667457)
+- [Generating SQL code](https://twitter.com/aquariusacquah/status/1284706786247880705)
+- [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
 - [Coding interview](https://twitter.com/lacker/status/1279136788326432771/photo/1)
 - [Generating python](https://twitter.com/josephbrionesaz/status/1283097878223675392)
-- [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
-- [AI Inceptiion: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
+- [AI Inception: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
 
 ### Text generation
 
@@ -88,7 +87,7 @@
 - [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
 - [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
 
-### Articles
+### Articles and Videos
 
 - [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
 - [GPT-3 and A Typology of Hype](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype?s=09)
